@@ -155,3 +155,8 @@ API uses proper HTTP status codes:
 Swagger UI automatically documents endpoints, input/output models, and example responses.
 
 
+## 🎥 Demo Video
+
+You can watch the demo video here:
+
+https://drive.google.com/file/d/1nMVs9DPkFmClrDBlGCLjB3uPUg_v5F4x/view?usp=drive_link
