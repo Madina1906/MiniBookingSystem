@@ -153,3 +153,4 @@ API uses proper HTTP status codes:
 422 – validation error
 
 Swagger UI automatically documents endpoints, input/output models, and example responses.
+
